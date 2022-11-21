@@ -3,7 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BlueDinous
+  - BlueGirl
+  - BlueRabbit
+  - BrownTedy
+  - GreenDinous
+  - GreenGirl
+  - Panda
+  - PinkDinosaus
+  - PinkGirl
+  - PinkRabbit
+  - PinkSheep
+  - PinkTedy
+  - PurperGirl
+  - SilverRabbit
+  - SilverSheep
+  - WhiteGirl
+  - WhileHorse
+  - WhiteSheep
+  - YellowCat
+  - yellowGirl
   layers:
   - Default
   - TransparentFX
